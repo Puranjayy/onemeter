@@ -1,4 +1,4 @@
-# onemeter
+# OneMeter
 For the one meter mobile app automation.
 
 # Technologies Used
