@@ -19,4 +19,4 @@ For the one meter mobile app automation.
 
 # Configuration 
 * Inside folder __src/test/java/runner BaseClass.java__ you can set the capabilities according to your device/Emulator
-* To run the tests you can rub the __src/test/java/stepdefinitions TestRunner.java__ file or the feature file directly
+* To run the tests you can rub the __src/test/java/stepDefinitions TestRunner.java__ file or the feature file directly
