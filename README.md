@@ -12,7 +12,7 @@ For the one meter mobile app automation.
 * Appium Server using appium desktop client
 * Eclipse IDE 
 
-# Eclpipse plugins -# 
+# Eclpipse plugins -
 * TestNG for Eclipse
 * Cucumber Eclipse Plugin
 * Natural 0.9
