@@ -8,10 +8,11 @@ For the one meter mobile app automation.
 * Test cases executions: Appium
 
 # Pre-requisites:
-JAVA and ANDROID HOME environment variables set
-Appium Server using appium desktop client
-Eclipse IDE 
-Eclpipse plugins - 
+* JAVA and ANDROID HOME environment variables set
+* Appium Server using appium desktop client
+* Eclipse IDE 
+
+# Eclpipse plugins -# 
 * TestNG for Eclipse
 * Cucumber Eclipse Plugin
 * Natural 0.9
