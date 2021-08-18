@@ -13,6 +13,7 @@ For the one meter mobile app automation.
 * Eclipse IDE 
 
 # Eclipse plugins -
+There plugins can be added from the eclipse marketplace
 * TestNG for Eclipse
 * Cucumber Eclipse Plugin
 * Natural 0.9
