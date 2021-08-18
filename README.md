@@ -1,13 +1,13 @@
 # onemeter
 For the one meter mobile app automation.
 
-#Technologies Used
+# Technologies Used
 * Java JDK 1.8 or higher
 * Dependencies manager: mvn
 * Testing model: BDD (cucumber)
 * Test cases executions: Appium
 
-#Pre-requisites:
+# Pre-requisites:
 JAVA and ANDROID HOME environment variables set
 Appium Server using appium desktop client
 Eclipse IDE 
@@ -16,6 +16,6 @@ Eclpipse plugins -
 * Cucumber Eclipse Plugin
 * Natural 0.9
 
-#Configuration 
+# Configuration 
 * Inside folder src/test/java/runner BaseClass.java you can set the capabilities according to your device/Emulator
 * To run the tests you can rub the src/test/java/stepdefinitions TestRunner.java file or the feature file directly
