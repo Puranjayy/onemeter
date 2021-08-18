@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="37819" started-at="2021-08-17T00:28:38 IST" finished-at="2021-08-17T00:29:16 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="37819" started-at="2021-08-17T00:28:38 IST" finished-at="2021-08-17T00:29:16 IST">
+      <class name="runner.OneMeter_Automation.BaseClass">
+        <test-method status="PASS" signature="setup()[pri:0, instance:runner.OneMeter_Automation.BaseClass@50d0686]" name="setup" is-config="true" duration-ms="37684" started-at="2021-08-17T00:28:38 IST" finished-at="2021-08-17T00:29:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="sampleTest()[pri:0, instance:runner.OneMeter_Automation.BaseClass@50d0686]" name="sampleTest" duration-ms="10" started-at="2021-08-17T00:29:16 IST" finished-at="2021-08-17T00:29:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:runner.OneMeter_Automation.BaseClass@50d0686]" name="teardown" is-config="true" duration-ms="2" started-at="2021-08-17T00:29:16 IST" finished-at="2021-08-17T00:29:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- runner.OneMeter_Automation.BaseClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
